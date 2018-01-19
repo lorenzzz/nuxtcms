@@ -1,0 +1,21 @@
+{
+  "name": "nuxtcontentsystem",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "@nuxtjs/bulma": "^1.1.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^4.5.0",
+    "netlify-cms": "^1.0.3",
+    "nuxt-netlify-cms": "^2.0.1",
+    "nuxt": "^1.0.0-rc11",
+    "nuxtent": "^1.1.0"
+  }
+}
